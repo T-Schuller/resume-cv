@@ -96,6 +96,27 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for pub in site.data.publications %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+          <h3 class="resume-item-title" itemprop="name">{{ pub.title }}</h3>
+          <h4 class="resume-item-details">
+            {{ pub.authors }} &bull; {{ pub.venue }} &bull; {{ pub.year }}
+         </h4>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
