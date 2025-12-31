@@ -1,12 +1,14 @@
-# Education
-- uni: University of Porto and Universiteit van Amsterdam
-  degree: Ph.D. in Mechanical Engineering
-  duration: 2020 - 2024
+# Degree
+- degree: Ph.D. in Mechanical Engineering
+  uni: University of Porto and Universiteit van Amsterdam
+  year: 2020 - 2024
+  awards:
+    - award: European Doctoral Title (Unanimous)
   summary: >
-    Awarded the European Doctoral Title (unanimous). Research focused on numerical optimization and computational fluid dynamics for industrial applications, with joint supervision between FEUP (U.Porto) and the University of Amsterdam.
+    Doctoral research focused on numerical optimization and computational fluid dynamics for industrial applications, conducted jointly between FEUP (U.Porto) and the University of Amsterdam.
 
-- uni: University of Porto
-  degree: M.Sc. in Mechanical Engineering
-  duration: 2014 - 2019
+- degree: M.Sc. in Mechanical Engineering
+  uni: University of Porto
+  year: 2014 - 2019
   summary: >
-    Completed a Master's degree at FEUP with specialization in Production and Manufacturing Engineering.
+    Master's degree completed at FEUP with specialization in Production and Manufacturing Engineering.
