@@ -1,19 +1,42 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Experience
+- company: ADESS AG
+  position: Aerodynamic Development Team Lead
+  duration: 2025 - Present
+  summary: >
+    Leading a 4-member aerodynamics team with full responsibility for the aerodynamic development of hydrogen endurance (H24EVO), next-generation LMP3, and entry-level single-seater projects. Delivering measurable performance gains through CFD-driven design and test correlation. Acting as technical interface with stakeholders and funding agencies, and supervising four Master's thesis students.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: ADESS AG
+  position: Aerodynamic Engineer - Surfacing and CFD
+  duration: 2024 - 2025
+  summary: >
+    Performed advanced CFD simulations and detailed aero surface development for high-performance motorsport applications. Supported straight-line and on-road testing activities, validating numerical results against experimental data to ensure reliable performance improvements.
 
+- company: Universiteit van Amsterdam
+  position: Visiting Researcher
+  duration: 2023
+  summary: >
+    Conducted visiting PhD research at the Institute of Physics, focusing on advanced flow visualization techniques and theoretical fluid dynamics, contributing to the European Doctoral Title.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: UltiMaker
+  position: Research Intern
+  duration: 2023
+  summary: >
+    Executed experimental research activities within UltiMaker R and D facilities, contributing to internal innovation projects and advancing PhD research in fluid dynamics and numerical optimization.
+
+- company: FS FEUP
+  position: External Advisor - Aerodynamics and Cooling
+  duration: 2021 - 2024
+  summary: >
+    Provided CFD consulting and aerodynamic guidance to the Formula Student team, supporting the design and development of electric formula-style race cars for international competitions.
+
+- company: INEGI
+  position: Research Fellow
+  duration: 2019 - 2024
+  summary: >
+    Led a long-term industrial research project in collaboration with UltiMaker, optimizing FDM 3D printer nozzle geometry through experimental testing, complex CFD simulations, and numerical optimization. The work resulted in four Q1 journal publications.
+
+- company: University of Porto
+  position: Teaching Fellow
+  duration: 2019 - 2023
+  summary: >
+    Taught practical engineering classes and supervised final-year Bachelor's capstone projects, with students consistently achieving strong academic outcomes.
