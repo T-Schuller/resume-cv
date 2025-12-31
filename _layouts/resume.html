@@ -96,6 +96,26 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_languages %}
+      <!-- begin Languages -->
+      <section class="content-section">
+
+       <header class="section-header">
+         <h2>Languages</h2>
+       </header>
+
+       {% for language in site.data.languages %}
+       <div class="resume-item">
+         <h4 class="resume-item-details">
+           {{ language.language }} &bull; {{ language.proficiency }}
+         </h4>
+       </div>
+       {% endfor %}
+
+      </section>
+      <!-- end Languages -->
+      {% endif %}
+
       {% if site.resume_section_publications %}
       <!-- begin Publications -->
       <section class="content-section">
