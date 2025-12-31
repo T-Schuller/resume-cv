@@ -1,12 +1,18 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Computational Fluid Dynamics (CFD)
+  description: OpenFOAM, HELYX, ANSYS Fluent, simulation setup, meshing, post-processing, and correlation.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Aerodynamic design and surfacing
+  description: CATIA V5 (GSD) and SolidWorks for aerodynamic surface development.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Scientific programming and automation
+  description: Python, Bash, MATLAB for data analysis, optimization, and workflow automation.
+
+- skill: Testing and validation
+  description: CFD-to-test correlation, straight-line and on-road testing support.
+
+- skill: Technical leadership
+  description: Team leadership, project coordination, and MSc thesis supervision.
+
+- skill: Technical communication
+  description: Technical reporting, presentations, and peer-reviewed publications.
